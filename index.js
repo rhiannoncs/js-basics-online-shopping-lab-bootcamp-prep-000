@@ -49,7 +49,7 @@ function total() {
 }
 
 function removeFromCart(item) {
-  
+  var inCart = True;
 }
 
 function placeOrder(cardNumber) {
