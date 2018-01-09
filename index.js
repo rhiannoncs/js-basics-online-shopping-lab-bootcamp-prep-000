@@ -49,7 +49,10 @@ function total() {
 }
 
 function removeFromCart(item) {
-  var inCart = True;
+  var inCart = true;
+  for (let i = 0; i < cart.length, i++) {
+    if(cart[i])
+  }
 }
 
 function placeOrder(cardNumber) {
