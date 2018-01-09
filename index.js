@@ -62,6 +62,3 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // write your code here
 }
-
-//cart = [{ apples: 6 }, { cereal: 4 }, { bread: 1 }, { quinoa: 5 }];
-//viewCart();
